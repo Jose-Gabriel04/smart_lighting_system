@@ -1,0 +1,5 @@
+{
+  "luminosity_threshold": 10000,
+  "presence_sensor_pin": 11,
+  "cloud_bucket_name": "###fake_bucket"
+}
